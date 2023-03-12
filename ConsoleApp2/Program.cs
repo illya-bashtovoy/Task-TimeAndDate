@@ -1,4 +1,7 @@
-﻿using System;
+/* Створіть додаток, який використовує клас «Task». Додаток має відображати  поточний  час  і  дату.
+Запустіть завдання  трьома способами:Через метод «Start» класу «Task».
+Через метод «Task.Factory.StartNew».Через метод «Task.Run». */
+using System;
 
 namespace Sistem_Programe
 {
